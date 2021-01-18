@@ -1,0 +1,14 @@
+{
+    "description": "Example: Application with dependencies",
+    "version": "1.0.0",
+    "author": "Anton Vorontsov",
+    "api": [
+        "component2",
+        "component3",
+        "mkdirp",
+        "ncp",
+        "console",
+        "setTimeout",
+        "setInterval"
+    ]
+}
